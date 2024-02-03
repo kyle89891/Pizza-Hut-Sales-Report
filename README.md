@@ -18,3 +18,4 @@ Integration of real-time data feeds to ensure stakeholders have access to up-to-
 
 Acknowledgments
 Special thanks to the Power BI community for sharing insights, tutorials, and best practices.
+![Screenshot (246)](https://github.com/kyle89891/Pizza-Hut-Sales-Report/assets/81356431/17703967-1d8a-41a6-947a-f27b5447c23f)
